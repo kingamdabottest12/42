@@ -1,0 +1,314 @@
+.u-section-1 {
+  background-image: url("images/616a83799de03.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 665px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 478px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 400px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 904px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 624px;
+  }
+}.u-section-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.45), rgba(0,0,0,0.45)), url("images/image_896f5bae79.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 1149px;
+}
+
+.u-section-2 .u-custom-html-1 {
+  min-height: 1107px;
+  height: auto;
+  margin: 42px 65px 0 -34px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 947px;
+  }
+
+  .u-section-2 .u-custom-html-1 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 725px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 544px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 343px;
+  }
+}.u-section-3 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("images/Airtel-Logo-PNG-Image.png");
+  background-position: 0% 100%;
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 1127px;
+}
+
+.u-section-3 .u-custom-html-1 {
+  min-height: 1107px;
+  height: auto;
+  margin: 20px 34px 0 -57px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1561px;
+  }
+
+  .u-section-3 .u-custom-html-1 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1478px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1410px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1335px;
+  }
+}.u-section-4 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("images/Hutch_logo.svg.png");
+  background-position: 50% 50%;
+}
+
+.u-section-4 .u-sheet-1 {
+  min-height: 1227px;
+}
+
+.u-section-4 .u-custom-html-1 {
+  height: auto;
+  min-height: 1107px;
+  margin: 60px 40px 60px -40px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 {
+    min-height: 548px;
+  }
+
+  .u-section-4 .u-sheet-1 {
+    min-height: 1012px;
+  }
+
+  .u-section-4 .u-custom-html-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4 {
+    min-height: 420px;
+  }
+
+  .u-section-4 .u-sheet-1 {
+    min-height: 775px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 {
+    min-height: 315px;
+  }
+
+  .u-section-4 .u-sheet-1 {
+    min-height: 581px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 {
+    min-height: 198px;
+  }
+
+  .u-section-4 .u-sheet-1 {
+    min-height: 366px;
+  }
+}.u-section-5 {
+  background-image: none;
+}
+
+.u-section-5 .u-sheet-1 {
+  min-height: 1221px;
+}
+
+.u-section-5 .u-image-1 {
+  height: 684px;
+  filter: brightness(0.7);
+  width: 1140px;
+  margin: 0 auto;
+}
+
+.u-section-5 .u-custom-html-1 {
+  min-height: 1107px;
+  height: auto;
+  margin-top: -627px;
+  margin-bottom: 57px;
+  margin-left: -57px;
+  width: 1165px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 1101px;
+  }
+
+  .u-section-5 .u-image-1 {
+    height: 564px;
+    margin-right: -100px;
+  }
+
+  .u-section-5 .u-custom-html-1 {
+    width: 940px;
+    margin-left: 100px;
+    margin-right: 100px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 969px;
+  }
+
+  .u-section-5 .u-image-1 {
+    height: 432px;
+    margin-right: -210px;
+  }
+
+  .u-section-5 .u-custom-html-1 {
+    width: 720px;
+    margin-left: 210px;
+    margin-right: 210px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 861px;
+  }
+
+  .u-section-5 .u-image-1 {
+    height: 324px;
+    margin-right: -300px;
+  }
+
+  .u-section-5 .u-custom-html-1 {
+    width: 540px;
+    margin-left: 300px;
+    margin-right: 300px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 741px;
+  }
+
+  .u-section-5 .u-image-1 {
+    height: 204px;
+    margin-right: -400px;
+  }
+
+  .u-section-5 .u-custom-html-1 {
+    width: 340px;
+    margin-left: 400px;
+    margin-right: 400px;
+  }
+}.u-section-6 {
+  background-image: url("images/SLT-2.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-6 .u-sheet-1 {
+  min-height: 1287px;
+}
+
+.u-section-6 .u-custom-html-1 {
+  min-height: 1233px;
+  height: auto;
+  margin: 53px 85px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 1061px;
+  }
+
+  .u-section-6 .u-custom-html-1 {
+    margin-right: 0;
+    width: 570px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 813px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 610px;
+  }
+
+  .u-section-6 .u-custom-html-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 384px;
+  }
+
+  .u-section-6 .u-custom-html-1 {
+    width: 340px;
+  }
+}

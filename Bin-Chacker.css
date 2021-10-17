@@ -1,0 +1,104 @@
+.u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/isometric-safe-security-online-payment-background_90099-48.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1472px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: edosz;
+  font-size: 9.375rem;
+  animation-duration: 1000ms;
+  margin: 66px 74px 0 242px;
+}
+
+.u-section-1 .u-icon-1 {
+  height: 140px;
+  width: 323px;
+  animation-duration: 1000ms;
+  margin: -146px auto 0 -59px;
+}
+
+.u-section-1 .u-custom-html-1 {
+  min-height: 1107px;
+  width: 1269px;
+  margin: 60px -65px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1214px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 825px;
+    margin-right: 369px;
+    margin-left: 273px;
+  }
+
+  .u-section-1 .u-icon-1 {
+    margin-top: -190px;
+  }
+
+  .u-section-1 .u-custom-html-1 {
+    width: 570px;
+    height: auto;
+    margin: 149px 0 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 930px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 720px;
+    margin-right: 283px;
+    margin-left: 209px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 698px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 540px;
+    margin-right: 212px;
+    margin-left: 157px;
+  }
+
+  .u-section-1 .u-custom-html-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 439px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
+    width: 340px;
+    margin-right: 133px;
+    margin-left: 99px;
+  }
+
+  .u-section-1 .u-icon-1 {
+    margin-top: -164px;
+  }
+
+  .u-section-1 .u-custom-html-1 {
+    width: 340px;
+  }
+}@font-face {
+  font-family: 'edosz';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/edosz.ttf);
+}
